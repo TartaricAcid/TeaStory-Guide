@@ -2,5 +2,26 @@
     {
         "id": "start",
         "icon": "teastory:textures/items/tea_seeds.png"
+    },
+    {
+        "id": "tea_plant",
+        "icon": "teastory:textures/items/tea_leaf.png"
+    },
+    {
+        "id": "tea_preparing",
+        "icon": "teastory:textures/items/sieve.png"
+    },
+    {
+        "id": "tea_brewing",
+        "icon": "teastory:textures/items/kettle.png"
+    },
+    {
+        "id": "misc",
+        "icon": "teastory:textures/items/tea_residue1.png"
+    },
+    {
+        "id": "appendix",
+        "icon": "minecraft:textures/items/book_written.png"
     }
+
 ]

@@ -1,1 +1,50 @@
-teastory.guide.index=Welcome to the guide for "Tea, a Story of Leaf
+teastory_guide.guide=Tea Story
+teastory_guide.guide.start=First Step
+teastory_guide.guide.tea_plant=Tea Plant
+teastory_guide.guide.soilmeter=Soilmeter
+teastory_guide.guide.tea_preparing=Processing
+teastory_guide.guide.tea_brewing=Brewing
+teastory_guide.guide.misc=Other stuff
+teastory_guide.guide.appendix=Appendixes
+
+teastory.guide.index.1=Tea, the Story a Leaf
+teastory.guide.index.2=Welcome to the world of tea! Here you can find a quick guide of how to start.
+teastory.guide.index.3=This guide is based on the official guide (which can be found at http://mcbbs.tvt.im/thread-562372-1-1.html - caution: not in English). All credits go to the original dev team and guide writers.
+
+teastory.guide.start.1=Your first step: some necessities
+teastory.guide.start.2=Tea Leaves
+teastory.guide.start.3=This is a mod about tea, so you may want to find out where are those tea leaves. In fact, it's very simple: break tree leaves! Waiting leaves decaying also works, but that seems not as fast as manually cleaning up. Note that you can only get ground tea leaves via this way, and you have to craft them in 3x3 to get a full piece of tea leaf.
+teastory.guide.start.4=Sieve
+teastory.guide.start.5=Another way to get tea leaves is using sieve. You can find its recipe in JEI. JEI will also tell you that surrounding a sieve with 8 leaves (any type is okay) in crafting table will give you 3 fresh tea leaves. Do note that sieve will become dirty after crafting, and needs to be cleaned up.
+teastory.guide.start.6=Sieve cleaning
+teastory.guide.start.7=To cleaning a dirty sieve, simply right click with it holding in hands. You may also consider using a brush (use JEI for recipe and usage!), which can gives you an extra piece of ground leaf.
+
+teastory.guide.tea_plant.1=Farming tea plants
+teastory.guide.tea_plant.2=Seeds
+teastory.guide.tea_plant.3=Breaking any tree leaves can drop tea plant seeds. That's it.
+teastory.guide.tea_plant.4=Tea Plant
+teastory.guide.tea_plant.5=Same as other plants/crops, you need to plant it on farmland. Once fully grown, you may right click it with hand to get 1-4 pieces of fresh tea leaves, making it a stable source of your tea leaves. Or you can just break it, dropping 1-3 tea plant seeds and 1-3 fresh tea leaves.
+teastory.guide.tea_plant.6=Climate Requirement
+teastory.guide.tea_plant.7=You may or may not know that, in real life, tea plants have a harsh requirement on where they grow - warm, wet, altitude, and many others. Even a tiny mismatch can affect growth of tea plants drastically. In this mod, tea plants are expected to grow between y=80 and y=110, and in a warm, humid biome (e.g. forest and jungle). If you are not quite sure on this, consider about using a soilmeter to help you locate a good place for your new tea farm, which will be introduced very soon.
+teastory.guide.tea_plant.8=Soilmeter - a tool for locating place for tea-growing
+teastory.guide.tea_plant.9=This handy tool can help you find a place to set up your tea farm. Just use it on a block, and you will get all information you needed! It can also give you the growing chance of which tea plant can grow at current location.
+
+teastory.guide.tea_preparing.1=Processing
+teastory.guide.tea_preparing.2=Different type of tea requires different preparation to make. In this mod, you will need these blocks/items: vanilla furnace, tea pan, drying pan, barrel, and tea stove.
+teastory.guide.tea_preparing.3=Furnace?
+teastory.guide.tea_preparing.4=Cooking tea leaves in a furnace? Though it's possible to do so, it's not really recommended. JEI can tell you that you will get burnt tea leaves if you do so.
+teastory.guide.tea_preparing.5=Tea pan
+teastory.guide.tea_preparing.6=Furnace might be too hot for tea leaves. Tea pan should be more feasible to dry those tea leaves. Place it on where it's hot and dry (think about desert), right click it with at least 8 pieces of fresh leaves, and you are good to go. The drying process will last for 1-5 days. Be careful with rain - otherwise you will get wet leaves, which are basically useless and have to be dried in vanilla furnace in order to use them again.
+teastory.guide.tea_preparing.7=Rain-proof, in fact, is optional - half-dry tea leaves will be produced before dry leaves if the pan cannot see sky directly. If you want dried leaves, then it's better to leave tea pans under the sun.
+teastory.guide.tea_preparing.8=Drying pan
+teastory.guide.tea_preparing.9=Drying pan is for those who feel that tea pan is slow. Place it on ground, and use a flint and steel to light it. Lit drying pan has smoke effects around it. When it is lit, put 8 fresh leaves via right-clicking. Right click it will show hint messages; you may just follow those messages to complete the process. Do remember that dry leaves will burn out if you forget to take them out.
+teastory.guide.tea_preparing.10=Barrel
+teastory.guide.tea_preparing.11=Barrel is used for fermentation - which is required for creation of black tea.
+teastory.guide.tea_preparing.12=Tea Stove
+teastory.guide.tea_preparing.13=Tea Stove is a mean of automatically making half-dried tea leaves. It also serves as the only way to make matcha.
+
+teastory.guide.tea_brewing.1=WIP
+
+teastory.guide.misc.1=WIP
+
+teastory.guide.appendix.1=WIP
