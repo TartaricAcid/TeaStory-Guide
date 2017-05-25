@@ -43,8 +43,27 @@ teastory.guide.tea_preparing.11=Barrel is used for fermentation - which is requi
 teastory.guide.tea_preparing.12=Tea Stove
 teastory.guide.tea_preparing.13=Tea Stove is a mean of automatically making half-dried tea leaves. It also serves as the only way to make matcha.
 
-teastory.guide.tea_brewing.1=WIP
+teastory.guide.tea_brewing.1=Brewing tea
+teastory.guide.tea_brewing.2=Kettle
+teastory.guide.tea_brewing.3=It's pretty obvious. You need a kettle to boil water. JEI will be your best friend. Do remember to fire it before actaully using it.
+teastory.guide.tea_brewing.4=After you get the fired kettle, you may either:
+teastory.guide.tea_brewing.5=Place on the ground, then use a vanilla water bucket on it;
+teastory.guide.tea_brewing.6=Craft it with water bucket.
+teastory.guide.tea_brewing.7=Either way, you'll get a kettle filled with cold water. Heat it in vanilla furnace, and you should get a kettle with boiled water.
+teastory.guide.tea_brewing.8=Brewing is pretty simple - do one of following:
+teastory.guide.tea_brewing.9=Place on the ground, then put 8 piece of tea leaves (including matcha powder) into the kettle via right click;
+teastory.guide.tea_brewing.10=Surround the boiled water kettle with 8 piece of tea leaves (including matcha powder) in crafting table.
+teastory.guide.tea_brewing.11=How to drink it?
+teastory.guide.tea_brewing.12=No one would like to drink tea/coffee with kettle directly. You need a cup. There are four different type of cups: wood, stone, glass, and porcelain; their recipes can be found in JEI, so just follow JEI to create them.
+teastory.guide.tea_brewing.13=To get a cup of tea, place your tea kettle on the ground, then use your empty cup on it. And dang! You finally get to this point! Do note that you can still drink tea even if your hunger bar is full.
+teastory.guide.tea_brewing.14=Different combinations of tea and cup can give you different types of effects. Cup usually affect the lasting time of your effects; while different types of tea gives you different effects. A list of all possible combination can be found in appendixes.
 
-teastory.guide.misc.1=WIP
+teastory.guide.misc.1=Some other things
+teastory.guide.misc.2=Shennong Ruler
+teastory.guide.misc.3=Shennong (lit. God Farmer), in Chinese mythology, is believed as the one who firstly taught people farming. It is also said that he had tried hundreds of herbs and recorded which could cure disease and which were poison for human being; tea plants is believed as one of those herbs that Shennong found.
+teastory.guide.misc.4=It is said that this ruler was originally a piece of jade, imbued with all kinds of herbs while Shennong was trying them, and finally evolved into a powerful weapon which can both cure people or kill people in a moment.
+teastory.guide.misc.5=For more information about Shennong, you may refer to wikipedia: https://en.wikipedia.org/wiki/Shennong 
+teastory.guide.misc.6=Music Disc - §oDance of Tea Harvesting§r (采茶舞曲)
+teastory.guide.misc.7=WIP
 
 teastory.guide.appendix.1=WIP

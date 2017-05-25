@@ -1,3 +1,22 @@
 [
-    "# $teastory.guide.misc.1"
+    "# $teastory.guide.misc.1",
+    null,
+    "## $teastory.guide.misc.2",
+    "$teastory.guide.misc.3",
+    "$teastory.guide.misc.4",
+    {
+        "text": "$teastory.guide.misc.5",
+        "extra": [
+            {
+                "text": "$teastory.guide.misc.6",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://en.wikipedia.org/wiki/Shennong"
+                }
+            }
+        ]
+    }
+    null,
+    "$teastory.guide.misc.7",
+    "$teastory.guide.misc.8"
 ]
