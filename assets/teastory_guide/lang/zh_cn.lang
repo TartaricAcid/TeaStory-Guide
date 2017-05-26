@@ -43,8 +43,27 @@ teastory.guide.tea_preparing.11=发酵桶用于发酵茶叶——这样能够做
 teastory.guide.tea_preparing.12=茶炉
 teastory.guide.tea_preparing.13=茶炉用于自动化制作绿茶干叶，这也是目前唯一能制作抹茶的方式。
 
-teastory.guide.tea_brewing.1=WIP
+teastory.guide.tea_brewing.1=煮茶
+teastory.guide.tea_brewing.2=茶壶
+teastory.guide.tea_brewing.3=显而易见，煮茶需要用到茶壶。JEI能够查到茶壶的合成表，做好茶壶胚后，只需在熔炉里烧制一下就能得到可以使用的茶壶。
+teastory.guide.tea_brewing.4=烧制茶壶胚得到能直接使用的茶壶后，你可以用以下两种方式来煮茶：
+teastory.guide.tea_brewing.5=将茶壶放置在地上，用原版水桶右击向里面灌水；
+teastory.guide.tea_brewing.6=通过工作台与水桶合成，向里面灌水；
+teastory.guide.tea_brewing.7=接下来你会得到一壶冷水，原版熔炉烧制一下就能得到一壶开水。
+teastory.guide.tea_brewing.8=沏茶就很简单了——按照接下来的步骤走：
+teastory.guide.tea_brewing.9=将开水壶放在地上，手持8片茶叶（抹茶粉也是一样的）右击即可沏茶；
+teastory.guide.tea_brewing.10=或者将开水壶与8片茶叶在工作台里面合成（抹茶粉也是一样的）。
+teastory.guide.tea_brewing.11=如何饮茶？
+teastory.guide.tea_brewing.12=没有人会直接拿着茶壶喝茶吧。喝茶怎么也得用茶杯吧。这里有四种茶杯可选：木茶杯，石茶杯，玻璃杯，白瓷杯；通过JEI都能够查到合成表。
+teastory.guide.tea_brewing.13=用茶杯装茶十分简单，将茶壶放在地上，手持空茶杯右击即可。当当！你终于得到了一杯茶！即使你的饥饿值是满的也可以喝茶哦。
+teastory.guide.tea_brewing.14=组合不同的茶以及茶杯能够得到不同效果。茶杯往往影响的是效果的持续时间；而茶叶影响的是效果种类；在附录部分你能够查到所有的组合以及带来的效果列表。
 
-teastory.guide.misc.1=WIP
+teastory.guide.misc.1=杂项
+teastory.guide.misc.2=神农尺
+teastory.guide.misc.3=神农，中国上古人物，传说中的农业和医药的发明者，他遍尝百草，有“神农尝百草”的传说，教人医疗与农耕，掌管医药及农业的神祇，能保佑农业收成、人民健康，更被医馆、药行视为守护神。传说茶叶最早就是神农发现的。
+teastory.guide.misc.4=神农尺，天神兵十大武器之一。早在远古的神话时代，伟大的神农氏尝遍万草千石，试其药性或毒性，因而中毒濒死不下百次。后得一枚九地玄玉，以千毒千药浸炼，成为一柄既能医重病，又能毒杀人的绝世神兵——“神农尺”。
+teastory.guide.misc.5=关于神农的更多信息，你可以访问百度百科：http://baike.baidu.com/item/神农/279451
+teastory.guide.misc.6=音乐唱片——§o采茶舞曲§r
+teastory.guide.misc.7=WIP
 
 teastory.guide.appendix.1=WIP
